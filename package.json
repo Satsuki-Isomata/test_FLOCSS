@@ -1,0 +1,21 @@
+{
+  "name": "test_svg-sprite",
+  "version": "1.0.0",
+  "description": "FLOCSSを使ってのCSS設計サンプル",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Satsuki-Isomata/test_FLOCSS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-sass": "^3.1.0"
+  }
+}
